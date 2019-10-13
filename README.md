@@ -10,7 +10,7 @@
 </p>
 
 ## Other dependencies
- - [`axios`](https://github.com/axios/axios)click
+ - [`axios`](https://github.com/axios/axios)
  - [`day.js`](https://github.com/iamkun/dayjs)
 
 ## Notes
