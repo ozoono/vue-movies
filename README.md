@@ -1,29 +1,19 @@
 # vue-movies
+> Movies & TV Shows website developed with [Vue.js 2](http://vuejs.org/guide/), [Vuex](https://github.com/vuejs/vuex) and [Vue-router](https://router.vuejs.org/). 
 
-## Project setup
-```
-npm install
-```
+<p align="center">
+	<a href="https://ozoono.github.io/vue-movies/" target="_blank">
+ 		<img src="https://raw.githubusercontent.com/ozoono/vue-movies/master/docs/screenshot.png" alt="vue-movies website" />
+ 		<br/>
+ 		- Live web -
+ 	</a>
+</p>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Other dependencies
+ - [`axios`](https://github.com/axios/axios)click
+ - [`day.js`](https://github.com/iamkun/dayjs)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Notes
+* Built using  [`vue-cli`](https://github.com/vuejs/vue-cli) (Vue CLI 3)
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* Movies & TV shows data from [The Movie DB API](hhttps://www.themoviedb.org/documentation/api). You need to signup to get a personal free key to start using the API.
