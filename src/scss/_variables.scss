@@ -1,0 +1,39 @@
+// Colors
+$color-primary: rgb(255, 102, 51);
+$color-secondary: rgb(175, 65, 28);
+$color-tags: rgb(236, 134, 51);
+$color-text-primary: #efefef;
+$color-text-secondary: #fff;
+$color-menu: #adadad;
+
+$background-primary: #1c202e;
+$background-secondary: #131620;
+$background-border: #4a5167;
+$background-input: #3a3e4d;
+
+// - Nav Bar
+$background-active: $color-primary;
+$background-active-gradient1: rgb(253, 108, 60) 0%;
+$background-active-gradient2: rgba(241, 76, 21, 1) 74%;
+
+// - Poster
+$poster-shadow: rgba(0, 0, 0, 0.4);
+$poster-shadow-active: rgba(255, 102, 51, 0.3);
+
+// - Modal
+$modal-color-shadow: rgba(0, 0, 0, 0.7);
+$modal-background: $background-secondary;
+$modal-background-overlay: rgba(0, 0, 0, 0.85);
+
+// - Scrollbar
+$scrollbar-color-thumb: #555; //rgb(175, 65, 28);
+$scrollbar-color-track: #999;
+
+// Fonts
+$font-primary: "Ubuntu Mono";
+$font-secondary: "Titillium Web";
+
+// Breakpoints
+$screen-sm-min: 640px;
+$screen-md-min: 768px;
+$screen-lg-min: 960px;
