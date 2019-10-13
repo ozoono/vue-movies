@@ -8,6 +8,7 @@
       maxlength="20"
       v-model="query"
       @keypress.enter="search"
+      @blur="resetSearch"
       placeholder="Search movie or TV show..."
     />
   </div>
@@ -27,7 +28,11 @@ export default {
       if ((this.query.length >= 2) && (this.query != this.lastQuery)){
         this.lastQuery = this.query;
         this.$router.push('/search?q=' + this.query);
+        this.resetSearch();
       }
+    },
+    resetSearch(){
+      this.query = '';
     }
   }
 };

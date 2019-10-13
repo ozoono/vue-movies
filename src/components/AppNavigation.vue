@@ -2,7 +2,7 @@
   <div class="navigation">
     <ul>
       <li v-for="(link, index) in links" :key="index">
-        <router-link :to="link.url">
+        <router-link :to="link.url" @click="resetSearch">
           <font-awesome-icon :icon="link.icon" :transform="link.transform" size="2x" class="icon" />
           <br />
           <span>{{ link.text }}</span>
