@@ -3,7 +3,7 @@
     <header>
       <AppNavigation />
     </header>
-
+{{ }}
     <section>
       <keep-alive>
         <router-view :key="$route.fullPath" @open-modal="toggleModal" />
