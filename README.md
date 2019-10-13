@@ -16,4 +16,4 @@
 ## Notes
 * Built using  [`vue-cli`](https://github.com/vuejs/vue-cli) (Vue CLI 3)
 
-* Movies & TV shows data from [The Movie DB API](hhttps://www.themoviedb.org/documentation/api). You need to signup to get a personal free key to start using the API.
+* Movies & TV shows data from [`The Movie DB API`](hhttps://www.themoviedb.org/documentation/api). You need to signup to get a personal free key to start using the API.
