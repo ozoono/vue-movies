@@ -1,5 +1,5 @@
 # vue-movies
-> Movies & TV Shows website developed with [Vue.js 2](http://vuejs.org/guide/), [Vuex](https://github.com/vuejs/vuex) and [Vue-router](https://router.vuejs.org/). 
+> Movies & TV Shows web app developed with [Vue.js 2](http://vuejs.org/guide/), [Vuex](https://github.com/vuejs/vuex) and [Vue-router](https://router.vuejs.org/). 
 
 <p align="center">
 	<a href="https://ozoono.github.io/vue-movies/" target="_blank">
